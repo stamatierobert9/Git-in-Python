@@ -1,4 +1,3 @@
-```markdown
 # Git-in-Python
 
 This Python script emulates basic Git operations such as repository initialization, file addition, and committing changes. It's designed for educational purposes to illustrate how Git interactions can be simplified into Python functions, without performing actual network operations or repository management. This approach helps in understanding the foundational concepts of Git operation within the Python environment.
